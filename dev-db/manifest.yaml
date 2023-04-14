@@ -1,0 +1,6 @@
+    name:DevDB
+    version: 1.0.0
+    summary: Azure Cosmos DB Environment
+    description: Deploys a CosmosDB in Azure
+    runner: ARM
+    templatePath: main.bicep
